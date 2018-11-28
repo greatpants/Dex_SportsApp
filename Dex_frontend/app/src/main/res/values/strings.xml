@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SportsApp</string>
+
+    <string name="login_title">登录</string>
+    <string name="register_title">注册</string>
+    <!-- 输入提示 -->
+    <string name="login_username_hint">请输入用户名/邮箱</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="register_password_confirm_hint">请再次输入密码</string>
+    <string name="register_username_hint">请输入用户名</string>
+    <string name="register_email_hint">请输入邮箱</string>
+    <!-- 按钮字段 -->
+    <string name="login_bt_text">登录</string>
+    <string name="register_bt_text">注册</string>
+    <string name="to_register_bt_text">没有账号？点击注册</string>
+    <!-- 错误信息 -->
+    <string name="error_user_pass_empty">此项不能为空</string>
+    <string name="error_wrong_username">用户名错误</string>
+    <string name="error_wrong_password">密码错误</string>
+
+    <string name="error_request">网络请求错误</string>
+
+    <string name="error_user_empty">请填写用户名</string>
+    <string name="error_pass_empty">请设置密码</string>
+    <string name="error_pass_confirm_empty">请再次输入密码</string>
+    <string name="error_pass_confirm">两次密码不一致</string>
+    <string name="error_email_empty">请填写邮箱</string>
+
+    <string name="error_invalid_email">邮箱格式错误</string>
+    <string name="error_invalid_username">用户名只能包含字母或数字</string>
+    <string name="error_invalid_password">密码至少为6位，包含字母和数字</string>
+    <string name="error_repeat_user_name">用户名已被使用</string>
+    <!-- 提示字段 -->
+    <string name="register_success">注册成功</string>
+    <!-- 内容字段 -->
+    <string name="tab_information">动态</string>
+    <string name="tab_sport">运动</string>
+    <string name="tab_mine">我的</string>
+</resources>
